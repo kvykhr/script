@@ -1,6 +1,5 @@
 import c4d
 from c4d import gui
-from random import shuffle, randint 
  
 
  
